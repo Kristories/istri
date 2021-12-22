@@ -28,3 +28,6 @@ $ chmod +x main.sh
 $ ./main.sh
  ```
 
+---
+
+> Selamat Hari Ibu!
