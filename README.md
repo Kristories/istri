@@ -19,6 +19,7 @@
 
  ```
 $ git clone git@github.com:Kristories/istri.git
+$ cd istri
 $ chmod +x main.sh
  ```
 
